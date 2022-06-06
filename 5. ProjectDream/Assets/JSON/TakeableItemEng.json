@@ -1,0 +1,23 @@
+{
+	"itemReaction": 
+	[
+		{
+			"itemName": "Axe",
+			"watchReaction": 
+			[
+				"It's axe",
+				"It might be usefull"
+			]
+		},
+		{
+			"itemName": "Key",
+			"watchReaction": 
+			[
+				"It's key",
+				"What for it?"
+			]
+		}
+		
+	]
+
+}
